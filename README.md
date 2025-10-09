@@ -1,4 +1,4 @@
-# Hello, I'm <Sanskruti Yelore>
+# Hello, I'm Sanskruti Yelore
 Welcome to my GitHub profile....
 
 
