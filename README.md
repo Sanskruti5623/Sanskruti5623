@@ -10,4 +10,4 @@ Welcome to my GitHub profile....
 I like to play Crickect and 
 My favorite mobile app is 
 I know the following programming languages Python 
-![Uploading octocat-1759845108905.png…]()
+![My Octocat](my_octocat.png)
