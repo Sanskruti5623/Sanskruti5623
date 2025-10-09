@@ -7,7 +7,5 @@ Welcome to my GitHub profile....
 [![](https://img.shields.io/badge/Music-Rock-informational?style=flat&&color=2bbc8a&logo=applemusic)](#)
 
 
-I like to play Crickect and 
-My favorite mobile app is 
-I know the following programming languages Python 
+
 ![My Octocat](my_octocat.png)
