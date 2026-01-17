@@ -1,8 +1,8 @@
-# Hello, I'm Sanskruti Yelore
+## Hello, I'm Sanskruti Yelore
 Welcome to my GitHub profile....
 
 
-## About me
+
 # 💫 About Me:
 👋 Hi, I’m Sanskruti!<br>🎓 B.Tech in Electronics & Telecommunication Engineering<br>📊 Aspiring Data Scientist | Python • SQL • Data Analytics<br>🚀 Passionate about turning data into meaningful insights
 
